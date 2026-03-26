@@ -1,0 +1,12 @@
+[general]
+# Godot project settings
+
+config_version=4
+
+[project]
+name="Stay Home"
+videos=["video1.ogg", "video2.mp4"]
+
+[display]
+window/size=1280,720
+window/fullscreen=false
