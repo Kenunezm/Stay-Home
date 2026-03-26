@@ -1,0 +1,16 @@
+# Godot-specific files to ignore
+
+# Built Godot binaries
+*.godot
+
+# Visual Studio and other IDE files
+.vs/
+
+# Temporary files
+*.tmp
+
+# Exported builds
+*/export/*.pck
+*/export/*.exe
+*/export/*.apk
+*.import/
